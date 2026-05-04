@@ -54,7 +54,7 @@ Password for the initial account: generate a secure password
 ```
 ## Part 3
 ```
-delete
+Set the FQDN of this panel (panel.example.com): enter your domain address for the panel
 ```
 
 ```
