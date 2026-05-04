@@ -76,53 +76,58 @@ I agree that this HTTPS request is performed: y
 ```
 Initial configuration completed. Continue with installation?: y
 ```
+
+```
+Enable sending anonymous telemetry data?: no
+```
+
+```
+You must agree in order to register with the ACME server. Do you agree?: Y
+```
 ## Part 4
 ```
-delete
+Installation of panel completed. Do you want to proceed to wings installation?: y
 ```
 
 ```
-delete
+Do you want to automatically cdonfigure UFW (firewall)?: y
+
 ```
 
 ```
-delete
+Do you want to automatically configure a user for database hosts?: y
 ```
 
 ```
-delete
+Do you want to configure MySQL to be accessed externally?: y
 ```
 
 ```
-delete
+Enter the panel address (blank for any address): enter your domain address for the panel
 ```
 
 ```
-delete
+Would you like to allow incoming traffic to port 3306?: y
 ```
 
 ```
-delete
+Database host username (pterodactyluser): leave blank
 ```
 
 ```
-delete
+Database host password: generate a secure password
 ```
 
 ```
-delete
+Do you want to automatically configure HTTPS using Let's Encrypt?: y
 ```
 
 ```
-delete
-```
-
-```
-delete
-```
-
-```
-delete
+Set the FQDN to use for Let's Encrypt (node.example.com): enter your domain address for the node
+DNS Record Type: A
+Name: node
+Content: VPS IP address
+Proxy status: DNS only (off)
 ```
 
 ```
