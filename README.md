@@ -1,5 +1,5 @@
 ### Pterodactyl Install
-
+## Part 1
 ```
 apt update
 ```
@@ -11,7 +11,7 @@ bash <(curl -s https://pterodactyl-installer.se)
 ```
 Option 2
 ```
-
+## Part 2
 ```
 Database name (panel): leave blank
 ```
@@ -21,7 +21,7 @@ Database username (pterodactyl): leave blank
 ```
 
 ```
-Password: generate secure password
+Password: generate a secure password
 ```
 
 ```
@@ -30,29 +30,29 @@ Other timezones available at: https://www.php.net/manual/en/timezones.america.ph
 ```
 
 ```
-delete
+Provde the email address that will be used to configure Let's Encrypt and Pterodactyl: enter your email
 ```
 
 ```
-delete
+Email address for the initial admin accout: enter your email
 ```
 
 ```
-delete
+Username for the initial admin account: admin
 ```
 
 ```
-delete
+First Name: your first name
 ```
 
 ```
-delete
+Last name: your last name
 ```
 
 ```
-delete
+Password for the initial account: generate a secure password
 ```
-
+## Part 3
 ```
 delete
 ```
