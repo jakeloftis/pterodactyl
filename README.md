@@ -62,21 +62,21 @@ Proxy status: DNS only (off)
 ```
 
 ```
-delete
+Do you want to automatically configure UFW (firewall)?: y
 ```
 
 ```
-delete
+Do you want to automatically configure HTTPS using Let's Encrypt?: y
 ```
 
 ```
-delete
+I agree that this HTTPS request is performed: y
 ```
 
 ```
-delete
+Initial configuration completed. Continue with installation?: y
 ```
-
+## Part 4
 ```
 delete
 ```
