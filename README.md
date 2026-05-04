@@ -55,6 +55,10 @@ Password for the initial account: generate a secure password
 ## Part 3
 ```
 Set the FQDN of this panel (panel.example.com): enter your domain address for the panel
+DNS Record Type: A
+Name: panel
+Content: VPS IP address
+Proxy status: DNS only (off)
 ```
 
 ```
