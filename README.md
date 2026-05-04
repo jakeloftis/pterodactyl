@@ -1,7 +1,7 @@
 ### Pterodactyl Install
 ## Part 1
 ```
-apt update
+apt update && apt upgrade -y
 ```
 
 ```
