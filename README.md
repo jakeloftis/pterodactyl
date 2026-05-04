@@ -4,5 +4,4 @@
 ```
 apt update
 ```
-triple backtick code
-```
+
